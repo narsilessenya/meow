@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/narsilessenya/meow/static/css/main.b1d12364.chunk.css",
+    "main.js": "/narsilessenya/meow/static/js/main.a3842c3f.chunk.js",
+    "main.js.map": "/narsilessenya/meow/static/js/main.a3842c3f.chunk.js.map",
+    "runtime-main.js": "/narsilessenya/meow/static/js/runtime-main.fc1094d6.js",
+    "runtime-main.js.map": "/narsilessenya/meow/static/js/runtime-main.fc1094d6.js.map",
+    "static/js/2.a28825b4.chunk.js": "/narsilessenya/meow/static/js/2.a28825b4.chunk.js",
+    "static/js/2.a28825b4.chunk.js.map": "/narsilessenya/meow/static/js/2.a28825b4.chunk.js.map",
+    "index.html": "/narsilessenya/meow/index.html",
+    "static/css/main.b1d12364.chunk.css.map": "/narsilessenya/meow/static/css/main.b1d12364.chunk.css.map",
+    "static/js/2.a28825b4.chunk.js.LICENSE.txt": "/narsilessenya/meow/static/js/2.a28825b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1094d6.js",
+    "static/js/2.a28825b4.chunk.js",
+    "static/css/main.b1d12364.chunk.css",
+    "static/js/main.a3842c3f.chunk.js"
+  ]
+}
